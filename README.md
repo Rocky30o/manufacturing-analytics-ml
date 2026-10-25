@@ -224,4 +224,4 @@ A predictive maintenance system can help organizations:
 - Enable proactive maintenance scheduling
 
 
-## Author : Subhadyuti Rath
+## Author : Ashmit Kumar Sahu
